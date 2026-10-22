@@ -1,31 +1,26 @@
-# Hi, Gendhi Ramona
+# Hi, I'm Gendhi Ramona
 
-Just some guy trying to understand basic programing.
-Currently interested on web development
-
----
+A guy that trying to understand the basic of programming.
 
 
-## 🔧 Technologies & Tools
-- **Languages**: C, PHP, Python, Java, Javascript, GO,
-- **Frontend**: HTML5, CSS3, Thymeleaf
+## Technologies & Tools
+- **Languages**: PHP, Java, Javascript, GO,
+- **Frontend**: HTML5, CSS3, Tailwind, Thymeleaf, Vue
 - **Backend**: Java, PHP
-- **Databases**: MySQL
-- **Tools**: Git, GitHub, VSCode, Intellij Idea, Nvim
+- **Framework/Library**: Laravel, Spring, Filament 
+- **Databases**: MySQL, PostgreSQL, MongoDB
+- **Tools**: Git, VSCode, Intellij Idea, PHPStorm, Nvim, Docker/Podman 
 
----
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xdranel&show_icons=true&hide_title=true&hide=prs)
-![XDX1O1's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xdranel&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+## GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xdranel&show_icons=true&hide_title=true&hide=prs)  
 ![GitHub Stats](https://streak-stats.demolab.com?user=xdranel&theme=tokyonight&hide_border=true)
 
----
 
-## 📬 Get in Touch
+## Get in Touch
 - **LinkedIn**: [linkedin.com/in/gendhiramona](https://www.linkedin.com/in/gendhi-ramona-245aa5291/)
 - **Email**: [gendhiramona@gmail.com](mailto:gendhiramona@gmail.com)
+- **Portfolio**: [Gendhi Ramona](https://gendhiramona.site)  
 
----
 
 Thanks for visiting my profile! Feel free to connect with me or check out my repositories. Let's build something amazing together!
