@@ -13,7 +13,6 @@ A guy that trying to understand the basic of programming.
 
 
 ## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xdranel&show_icons=true&hide_title=true&hide=prs)  
 ![GitHub Stats](https://streak-stats.demolab.com?user=xdranel&theme=tokyonight&hide_border=true)
 
 
